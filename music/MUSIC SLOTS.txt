@@ -1,0 +1,29 @@
+Each file here is the music for one part of the game. To change a track,
+download a new one and save it over the old file with the same name.
+MP3 works everywhere, including iPads.
+
+title.mp3         Title screen
+morning.mp3       Waking up and the hostel
+street_day.mp3    Walking outside in the daytime
+street_night.mp3  Walking outside after 6pm
+cafe.mp3          85°C and Tiger Sugar
+temple.mp3        Tianhou Temple
+shop.mp3          Don Don Donki
+restaurant.mp3    Modern Toilet Restaurant
+mrt.mp3           The station and MRT rides
+night.mp3         Bedtime diary and review
+
+Suggested Pixabay replacements (free, no credit needed):
+title         Lotus Breeze (Chinese Chill Hop), NverAvetyanMusic
+morning       Jazz Cafe Morning Music, alex-morgan
+street_day    City Tour, SalaiDawtSang11
+cafe          Jazz Sunny Cafe Music, alex-morgan
+temple        Guzheng & Erhu LoFi Jazz Cafe Vibes, RainStreetCat
+street_night  Asian Nightscape, VPRODMUSIC_Asia_BGM
+mrt           Lofi Song (Chinese) - Guangzuo Zingshen, Lofium
+night         Relax Piano, lsmusic
+
+Current tracks (all CC0, public domain, from OpenGameArt):
+- "Lofi Hip Hop Loop" and "Lofi again" by omfgdude (OMF-Games): street_day, shop, street_night, mrt
+- "Chill (Loopable)" by Alex McCulloch (Pro Sensory): morning, cafe, restaurant, night
+- "Asianoriental2" by Tozan: title, temple
