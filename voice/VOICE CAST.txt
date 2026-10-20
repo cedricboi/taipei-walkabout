@@ -1,0 +1,27 @@
+Voice cast (ElevenLabs, eleven_v3 'natural' setting, Taiwanese Mandarin)
+
+me_m         Xiaobao      You (male): young, bright, energetic
+me_f         Shan Shan    You (female): young, lively, energetic
+linjie       Shusita      林姐 hostel desk: warm, natural Taiwanese accent
+ajie         Yu           阿杰 bakery: youthful Taiwanese, upbeat
+amah         Jane         陈阿嬷 temple: low, slow, Taiwanese accent
+xiaoyu       Vivian       小雨 bubble tea: chatty Taiwanese social-media voice
+laobanniang  Ling         老板娘 noodle stall: grounded Taiwanese auntie
+meimei       Stacy        美美 Donki cashier: young, sweet Taiwanese
+akai         James        阿凯 waiter: friendly, cheeky Taiwanese guy
+zhang        Hardy        张伯伯 MRT volunteer: warm Taiwanese uncle
+announcer    Kevin Tu     MRT announcer: steady Taiwanese news voice
+awei         Roy          阿伟 7-Eleven: young Taiwanese guy
+xiaoting     Tiffy        小婷 Din Tai Fung: polite Taiwanese host
+kaiwen       Juin         凯文 101 guide: mature Taiwanese man
+pangge       Liu Junnan   胖哥 chicken stall: friendly Taiwanese uncle
+afen         Jadestone    阿芬姐 game stall: lively Taiwanese auntie
+vocab        Andrew Lo    Vocabulary teacher: clear Taiwanese educational voice
+cust1        Anna Su      Customer: casual young Taiwanese woman
+cust2        Neil Chuang  Customer: calm Taiwanese office worker
+cust3        LeeTingTing  Customer: Taiwanese woman
+cust4        Chen         Customer: young gentle Taiwanese man
+ayi          Chen         早餐店阿姨: friendly Taiwanese breakfast auntie
+
+3765 recorded lines. Files are named by speaker and a hash of the line, so the game finds them automatically.
+Any line without a recording uses your device's voice.

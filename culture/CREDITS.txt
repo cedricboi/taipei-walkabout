@@ -2,12 +2,17 @@ Culture card photos, from Wikimedia Commons (free licences):
 
 agei: "File:Agei.JPG" by Seasurfer (Chinese Wikipedia), CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Agei.JPG
 americanstreet: "File:A street with graffiti near Taipei Cinema Park.jpg" by Lokseng01, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:A_street_with_graffiti_near_Taipei_Cinema_Park.jpg
+bajiajiang: "File:Ba Jia Jiang Taichung 01.jpg" by Swys001, CC0. https://commons.wikimedia.org/wiki/File:Ba_Jia_Jiang_Taichung_01.jpg
 beefnoodle: "File:Taiwanese Beef Noodle Soup from 穆記牛肉麵 MuJI Beef Noodles Soup in Taipei.jpg" by midnightbreakfastcafe, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup_from_%E7%A9%86%E8%A8%98%E7%89%9B%E8%82%89%E9%BA%B5_MuJI_Beef_Noodles_Soup_in_Taipei.jpg
 beitoulibrary: "File:Taipei Public Library Beitou Branch.jpg" by 玄史生, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Taipei_Public_Library_Beitou_Branch.jpg
 bopiliao: "File:Bopiliao Historic Block 剝皮寮歷史街區.jpg" by HSIAO, WEN-CHIEN, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg
 breakfast: "File:Taipei breakfast with fresh soymilk 20071023.jpg" by Yun Huang Yong, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Taipei_breakfast_with_fresh_soymilk_20071023.jpg
+breakfastshop: "File:Mei Kang Mei Burger Shop, Wulai, Taiwan.JPG" by Shoestring (Wikivoyage), CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Mei_Kang_Mei_Burger_Shop,_Wulai,_Taiwan.JPG
 bubbletea: "File:Pearl Milk Tea in Chun Shui Tang.jpg" by Battlesnake1, CC0. https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg
 bubbleteashop: "File:Come Buy Taipei Yuanshan Store 20210502.jpg" by Solomon203, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Come_Buy_Taipei_Yuanshan_Store_20210502.jpg
+budaixi: "File:Taiwanese Glove puppetry performance at the Presidential Office Building of Taiwan 2023-04-11 01.jpg" by Wang Yu Ching / Office of the President, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Taiwanese_Glove_puppetry_performance_at_the_Presidential_Office_Building_of_Taiwan_2023-04-11_01.jpg
+calligraphy: "File:中華民國書學會 龔朝陽 20130126.jpg" by 美國之音 申華, Public domain. https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%9B%B8%E5%AD%B8%E6%9C%83_%E9%BE%94%E6%9C%9D%E9%99%BD_20130126.jpg
+chunlian: "File:Taisugar Hotel Taipei entry 20170126.jpg" by Solomon203, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Taisugar_Hotel_Taipei_entry_20170126.jpg
 ciyou: "File:Taipei Taiwan Ciyou-Temple-in-Songshan-01.jpg" by CEphoto, Uwe Aranas, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Ciyou-Temple-in-Songshan-01.jpg
 cks: "File:Gate of the Liberty Square, Taipei 20161209.jpg" by Marek Kubica, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Gate_of_the_Liberty_Square,_Taipei_20161209.jpg
 convenience: "File:Interior of FamilyMart Sendong Store 20161019.jpg" by 玄史生, CC0. https://commons.wikimedia.org/wiki/File:Interior_of_FamilyMart_Sendong_Store_20161019.jpg
@@ -15,57 +20,88 @@ daanpark: "File:Taipei Daan Forest Park 台北大安森林公園 - panoramio.jpg
 dadaocheng: "File:20171029 Sanchong skyline from Dadaocheng Wharf.jpg" by tabacoWang, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:20171029_Sanchong_skyline_from_Dadaocheng_Wharf.jpg
 damper: "File:Tuned mass damper - Taipei 101 - Wikimania 2007 0224.jpg" by guillom, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Tuned_mass_damper_-_Taipei_101_-_Wikimania_2007_0224.jpg
 dihua: "File:Buildings along Dihua Street 07.23 (2).jpg" by Supanut Arunoprayote, CC BY 4.0. https://commons.wikimedia.org/wiki/File:Buildings_along_Dihua_Street_07.23_(2).jpg
+doubleten: "File:Taiwan National Day Fireworks 2023-10-10.jpg" by 總統府, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Taiwan_National_Day_Fireworks_2023-10-10.jpg
+dragonboat: "File:Small Dragon Boat Racing in afternoon 20170530c.jpg" by 玄史生, CC0. https://commons.wikimedia.org/wiki/File:Small_Dragon_Boat_Racing_in_afternoon_20170530c.jpg
 dtfkitchen: "File:Taiwan 2009 Taipei DinTaiFung Dumpling House at Pacific Sogo ZhongXiao Store FRD 9000.jpg" by Fred Hsu on en.wikipedia, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg
 dtforiginal: "File:TW 台灣 Taiwan 台北 Taipei 永康街 YongKang Street shop Din Tai Fung Restaurant March 2024 R12S 01.jpg" by MAm ROFOW 022, CC0. https://commons.wikimedia.org/wiki/File:TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E6%B0%B8%E5%BA%B7%E8%A1%97_YongKang_Street_shop_Din_Tai_Fung_Restaurant_March_2024_R12S_01.jpg
 easycard: "File:EasyCard 2019.JPG" by 01x07x2022000, CC0. https://commons.wikimedia.org/wiki/File:EasyCard_2019.JPG
+eggstanding: "File:Pehcun Festival.jpg" by Myeyes.picture, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Pehcun_Festival.jpg
 eightyfive: "File:85C Bakery Cafe Guangfu North Road Store 20141218.jpg" by 玄史生, CC0. https://commons.wikimedia.org/wiki/File:85C_Bakery_Cafe_Guangfu_North_Road_Store_20141218.jpg
 elevator101: "File:TW 台灣 Taiwan 台北101觀景台 Taipei City 101 Observatory elevator sign August 2019 IX2 07.jpg" by Hangz Leundra Rumma, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97101%E8%A7%80%E6%99%AF%E5%8F%B0_Taipei_City_101_Observatory_elevator_sign_August_2019_IX2_07.jpg
 escalator: "File:Escalators connecting the Danshui Line Platform and the concourse in Taipei Station.JPG" by Howard61313, CC0. https://commons.wikimedia.org/wiki/File:Escalators_connecting_the_Danshui_Line_Platform_and_the_concourse_in_Taipei_Station.JPG
 fireworks101: "File:New Year 2014 fireworks at the Taipei 101.jpg" by Teddy Cross, CC BY 2.0. https://commons.wikimedia.org/wiki/File:New_Year_2014_fireworks_at_the_Taipei_101.jpg
 fortsandomingo: "File:Fort Santo Domingo with ROC national flag 20190518.jpg" by Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Fort_Santo_Domingo_with_ROC_national_flag_20190518.jpg
 garbagetruck: "File:Disposing sorted waste to garbage truck on Beining Road 20220726.jpg" by ThomasYehYeh, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Disposing_sorted_waste_to_garbage_truck_on_Beining_Road_20220726.jpg
+ghostmonth: "File:Offering Table for the End of Ghost Festival at Air Force One Coffee. Taipei 20150913.jpg" by 玄史生, CC0. https://commons.wikimedia.org/wiki/File:Offering_Table_for_the_End_of_Ghost_Festival_at_Air_Force_One_Coffee._Taipei_20150913.jpg
+gifttaboo: "File:Pineapple cakes at 7-Eleven inside MRT station Taoyuan May 2026.jpg" by Heidi Meudt, CC BY 4.0. https://commons.wikimedia.org/wiki/File:Pineapple_cakes_at_7-Eleven_inside_MRT_station_Taoyuan_May_2026.jpg
+hakka: "File:Tudigong temples of Taipei City Hakka Cultural Park.jpg" by Allervous, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Tudigong_temples_of_Taipei_City_Hakka_Cultural_Park.jpg
+hakkapark: "File:Tudigong temples of Taipei City Hakka Cultural Park.jpg" by Allervous, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Tudigong_temples_of_Taipei_City_Hakka_Cultural_Park.jpg
 herbalalley: "File:臺北萬華青草巷 02.jpg" by MELODY1101, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8C%97%E8%90%AC%E8%8F%AF%E9%9D%92%E8%8D%89%E5%B7%B7_02.jpg
+hokkien: "File:A greengrocer at Taipei Dongmen Market 20090321.jpg" by Banzai Hiroaki, CC BY 2.0. https://commons.wikimedia.org/wiki/File:A_greengrocer_at_Taipei_Dongmen_Market_20090321.jpg
 hongbao: "File:The Lucky Red Envelopes or Packets in Lunar New Year.jpg" by AH-LOD, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:The_Lucky_Red_Envelopes_or_Packets_in_Lunar_New_Year.jpg
 honorguard: "File:20190416 Chiang Kai-shek Memorial Hall guard change-11.jpg" by Balon Greyjoy, CC0. https://commons.wikimedia.org/wiki/File:20190416_Chiang_Kai-shek_Memorial_Hall_guard_change-11.jpg
+hotpot: "File:Food 沙茶火鍋, 麒麟閣, 麒麟閣沙茶火鍋, 台北 (14816998650).jpg" by bryan..., CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Food_%E6%B2%99%E8%8C%B6%E7%81%AB%E9%8D%8B,_%E9%BA%92%E9%BA%9F%E9%96%A3,_%E9%BA%92%E9%BA%9F%E9%96%A3%E6%B2%99%E8%8C%B6%E7%81%AB%E9%8D%8B,_%E5%8F%B0%E5%8C%97_(14816998650).jpg
 hotspringmuseum: "File:Beitou Hotspring Museum 2015.jpg" by Wing1990hk, CC BY 3.0. https://commons.wikimedia.org/wiki/File:Beitou_Hotspring_Museum_2015.jpg
 huashan: "File:Huashan Brick Lane 2015.jpg" by Wpcpey, CC BY 4.0. https://commons.wikimedia.org/wiki/File:Huashan_Brick_Lane_2015.jpg
 huaxi: "File:Huaxi Street Tourist Night Market paifang 20180804.jpg" by Vanbasten 23, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_paifang_20180804.jpg
+ibon: "File:7-Eleven Chaofu Store female staff teaching how to get Quintuple Stimulus Vouchers 20211008.jpg" by 玄史生, CC0. https://commons.wikimedia.org/wiki/File:7-Eleven_Chaofu_Store_female_staff_teaching_how_to_get_Quintuple_Stimulus_Vouchers_20211008.jpg
+indigenous: "File:Amis Malikuda 01.jpg" by Danieltw93, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Amis_Malikuda_01.jpg
+japaneseera: "File:Taipei Taiwan Presidential-Office-Building-01.jpg" by CEphoto, Uwe Aranas, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-01.jpg
 jiaobei: "File:擲筊 (4684775644).jpg" by Hsiung/d6478coke from Tainan city, Taiwan, CC BY 2.0. https://commons.wikimedia.org/wiki/File:%E6%93%B2%E7%AD%8A_(4684775644).jpg
 jipai: "File:2009-03-21 Jipai by Hot-Star Large Fried Chicken.jpg" by Banzai Hiroaki, CC BY 2.0. https://commons.wikimedia.org/wiki/File:2009-03-21_Jipai_by_Hot-Star_Large_Fried_Chicken.jpg
 jossburning: "File:2008-02-07 burning joss paper at Peitian Temple, Puzih City.jpg" by Pascal Terjan, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:2008-02-07_burning_joss_paper_at_Peitian_Temple,_Puzih_City.jpg
+ktv: "File:Holiday Taipei Xining Store 20090801.jpg" by 玄史生, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Holiday_Taipei_Xining_Store_20090801.jpg
+leicha: "File:美濃民俗村客家擂茶體驗80.jpg" by WEI, WAN-CHEN, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg
 lights101: "File:Taipei101-Night view.jpg" by Zion C, CC0. https://commons.wikimedia.org/wiki/File:Taipei101-Night_view.jpg
 longshan: "File:Longshan Temple, Taipei 01.jpg" by Bernard Gagnon, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg
+mahjong: "File:Mahjong (8476702421).jpg" by kawaiikiri, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Mahjong_(8476702421).jpg
 mangoice: "File:Mango shaved ice Taipei.jpg" by KQuhen, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Mango_shaved_ice_Taipei.jpg
 mazupilgrimage: "File:2021大甲媽祖遶境 02.jpg" by Mazubobee, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2021%E5%A4%A7%E7%94%B2%E5%AA%BD%E7%A5%96%E9%81%B6%E5%A2%83_02.jpg
 miansian: "File:Ay-Chung Flour-Rice Noodle 20190113.jpg" by Solomon203, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Ay-Chung_Flour-Rice_Noodle_20190113.jpg
+midautumnbbq: "File:People Eating Barbecue in Arcade of No. 11, Section 2, Nanjing East Road, Taipei 20150926.jpg" by 玄史生, CC0. https://commons.wikimedia.org/wiki/File:People_Eating_Barbecue_in_Arcade_of_No._11,_Section_2,_Nanjing_East_Road,_Taipei_20150926.jpg
+mooncake: "File:Mooncake.jpg" by Lybil BER, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Mooncake.jpg
 moviestreet: "File:Before the entrance of Showtime Cinemas Ximending.jpg" by Lokseng01, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Before_the_entrance_of_Showtime_Cinemas_Ximending.jpg
 mrtmap: "File:Danshui Station location map, system map and information map 20080728.jpg" by Tianmu peter, CC BY 3.0. https://commons.wikimedia.org/wiki/File:Danshui_Station_location_map,_system_map_and_information_map_20080728.jpg
 mrtnoeating: "File:2009-02-14 "No Eating, Drinking or Smoking" sign on a MRT train on the Tamsui Line.jpg" by Gregg Tavares, CC BY 2.0. https://commons.wikimedia.org/wiki/File:2009-02-14_%22No_Eating,_Drinking_or_Smoking%22_sign_on_a_MRT_train_on_the_Tamsui_Line.jpg
+mrtqueue: "File:Platform 1, MRT Taipei Main Station 20190811.jpg" by Sungmei Laiun Mingsri, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Platform_1,_MRT_Taipei_Main_Station_20190811.jpg
 nationaltheater: "File:National Theater, National Concert Hall and Guanghua Pond 20100722.jpg" by Lord Koxinga, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:National_Theater,_National_Concert_Hall_and_Guanghua_Pond_20100722.jpg
 nightmarket: "File:2009-04-01 Shilin Night Market.jpg" by Pedro Angelini, CC BY 2.0. https://commons.wikimedia.org/wiki/File:2009-04-01_Shilin_Night_Market.jpg
+nightmarketfood: "File:Night Market of Keelung, different kinds of meat and vegetables, view 3.jpg" by Sky_xe, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Night_Market_of_Keelung,_different_kinds_of_meat_and_vegetables,_view_3.jpg
 northgate: "File:2022台北承恩門風景.jpg" by JackTsai96272, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2022%E5%8F%B0%E5%8C%97%E6%89%BF%E6%81%A9%E9%96%80%E9%A2%A8%E6%99%AF.jpg
 ntmuseum: "File:國立臺灣博物館正面 20181028.jpg" by 陳慶良, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%AD%A3%E9%9D%A2_20181028.jpg
+oden: "File:Taiwan trip (42852766434).jpg" by bm.iphone, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Taiwan_trip_(42852766434).jpg
 pepperbun: "File:Hujiao bing stall Taipei.jpg" by KQuhen, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Hujiao_bing_stall_Taipei.jpg
 pineapplecake: "File:Taiwanese Pineapple Cake 001.jpg" by Ocdp, CC0. https://commons.wikimedia.org/wiki/File:Taiwanese_Pineapple_Cake_001.jpg
+pomelo: "File:Baskets of Wentan Pomelos at Madou, Tainan 20190830.jpg" by 總統府, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Baskets_of_Wentan_Pomelos_at_Madou,_Tainan_20190830.jpg
 postoffice: "File:Taipei Post Office front view 20181018.jpg" by Quentin Yang, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Taipei_Post_Office_front_view_20181018.jpg
+presidentialoffice: "File:Taipei Taiwan Presidential-Office-Building-01.jpg" by CEphoto, Uwe Aranas, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-01.jpg
 priorityseat: "File:C321 2106 Priority Seat at Houshanpi Station 20120407.jpg" by Solomon203, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:C321_2106_Priority_Seat_at_Houshanpi_Station_20120407.jpg
+qiuqian: "File:臺北市文昌宮籤筒.jpg" by 丘崈, CC0. https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8C%97%E5%B8%82%E6%96%87%E6%98%8C%E5%AE%AE%E7%B1%A4%E7%AD%92.jpg
 rainbowbridge: "File:Songshan Rainbow Bridge 20110425.jpg" by 玄史生, CC0. https://commons.wikimedia.org/wiki/File:Songshan_Rainbow_Bridge_20110425.jpg
 raohe: "File:East Entrance of Raohe Street Night Market 20150619 night.jpg" by ironypoisoning, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20150619_night.jpg
 receiptlottery: "File:7-Eleven Lio-gong Store e-invoice LE83622725.jpg" by Solomon203, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:7-Eleven_Lio-gong_Store_e-invoice_LE83622725.jpg
+recycling: "File:DPE Workers Collecting Recycle Objects in Minsheng Community 20140130a.JPG" by 玄史生, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:DPE_Workers_Collecting_Recycle_Objects_in_Minsheng_Community_20140130a.JPG
 redhouse: "File:Octagon Building, Red House Theater.jpg" by 毛貓大少爺 from Taipei, Taiwan, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Octagon_Building,_Red_House_Theater.jpg
+reuniondinner: "File:台灣年夜飯合菜.jpg" by 林非帶你飛, CC0. https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E5%B9%B4%E5%A4%9C%E9%A3%AF%E5%90%88%E8%8F%9C.jpg
+runbing: "File:潤餅 (6451823745).jpg" by polarpila, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:%E6%BD%A4%E9%A4%85_(6451823745).jpg
 scooters: "File:Motorcycle Waterfall at east end of Taipei Bridge.jpg" by Cp9asngf, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Motorcycle_Waterfall_at_east_end_of_Taipei_Bridge.jpg
+shifen: "File:2017-10-28 along the railway track in Shifen Village.jpg" by xiquinhosilva, CC BY 2.0. https://commons.wikimedia.org/wiki/File:2017-10-28_along_the_railway_track_in_Shifen_Village.jpg
 shilinmarket: "File:Shilin Night Market 01.jpg" by Exec8, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Shilin_Night_Market_01.jpg
 sisinan: "File:四四南村往台北101角度.jpg" by 陳姿攸, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91%E5%BE%80%E5%8F%B0%E5%8C%97101%E8%A7%92%E5%BA%A6.jpg
 sixrocks: "File:自象山六巨石眺望台北市-2413.jpg" by HuKi001, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:%E8%87%AA%E8%B1%A1%E5%B1%B1%E5%85%AD%E5%B7%A8%E7%9F%B3%E7%9C%BA%E6%9C%9B%E5%8F%B0%E5%8C%97%E5%B8%82-2413.jpg
+skylantern: "File:Pingxi Sky Lantern Festival 2014 in Taiwan.jpg" by Jirka Matousek, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Pingxi_Sky_Lantern_Festival_2014_in_Taiwan.jpg
 taipeimain: "File:Concourse of the TRA Taipei Main Station 20181111.jpg" by Cho-Hsun Lu, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Concourse_of_the_TRA_Taipei_Main_Station_20181111.jpg
 tamsuisunset: "File:Sunset of Tamsui 1.jpg" by Minghong, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Sunset_of_Tamsui_1.jpg
 tattoostreet: "File:Starbucks Hanzhong Store, 7-Eleven Jiemeng Store and Hanzhong Street at night 20181115.jpg" by Dennis Sylvester Hurd, CC0. https://commons.wikimedia.org/wiki/File:Starbucks_Hanzhong_Store,_7-Eleven_Jiemeng_Store_and_Hanzhong_Street_at_night_20181115.jpg
 teaeggs: "File:Tea eggs of FamilyMart Beijie Store 20190812.jpg" by NG LAU Hears, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Tea_eggs_of_FamilyMart_Beijie_Store_20190812.jpg
+templevisit: "File:2009-12-28 praying with joss sticks at the Bangka Lungshan Temple.jpg" by takuma mori, CC BY 2.0. https://commons.wikimedia.org/wiki/File:2009-12-28_praying_with_joss_sticks_at_the_Bangka_Lungshan_Temple.jpg
 themedrest: "File:Modern Toilet Restaurant2.jpg" by riNux, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Modern_Toilet_Restaurant2.jpg
 thermalvalley: "File:Thermal Valley in Beitou.jpg" by GiveMeMollusks, CC0. https://commons.wikimedia.org/wiki/File:Thermal_Valley_in_Beitou.jpg
+turnbox: "File:Taiwan scooter two-stage turn box Kaohsiung 2026 03 26 094221.jpg" by The Nature Box, CC0. https://commons.wikimedia.org/wiki/File:Taiwan_scooter_two-stage_turn_box_Kaohsiung_2026_03_26_094221.jpg
 xiaolongbao: "File:Dtfxlb.JPG" by Chensiyuan, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Dtfxlb.JPG
 ximenwalk: "File:Ximending Main Alley at Night.jpg" by Multivariable, CC BY 3.0. https://commons.wikimedia.org/wiki/File:Ximending_Main_Alley_at_Night.jpg
 yongkang: "File:People visit Yongkang shopping street in Taipei.jpg" by David Baron, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:People_visit_Yongkang_shopping_street_in_Taipei.jpg
 youbike: "File:Leihfahrrad YouBike-Taipei.jpg" by HAL-Guandu, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Leihfahrrad_YouBike-Taipei.jpg
 yuelao: "File:Taipei Xia-Hai City God Temple front view 20190309.jpg" by nakashi, CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Taipei_Xia-Hai_City_God_Temple_front_view_20190309.jpg
 zhongshanmall: "File:Zhongshan Metro Mall access 2019.jpg" by Wpcpey, CC BY 4.0. https://commons.wikimedia.org/wiki/File:Zhongshan_Metro_Mall_access_2019.jpg
+zongzi: "File:2010-09-04 Zongzi in northwest Taiwan.jpg" by tomscoffin, CC BY 2.0. https://commons.wikimedia.org/wiki/File:2010-09-04_Zongzi_in_northwest_Taiwan.jpg
