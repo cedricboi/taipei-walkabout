@@ -34,7 +34,7 @@ These replace the photos in the new cinematic intro. Each picture slowly zooms a
 
 ---
 
-## 2. Missing characters — 10 people (3 pictures each)
+## 2. Missing characters — 11 people (3 pictures each)
 
 These people already talk in the game but show a placeholder. **小婷 matters most**, because she is one of the three dating-sim characters.
 
@@ -79,6 +79,12 @@ A Taiwanese woman, about 45, with curly permed shoulder-length hair, a bright sc
 - happy: laughing, waving the darts.
 - surprised: mouth open in delight, one hand on her cheek.
 
+### 文文 Wénwen, bookstore staff at Eslite (new) — `char_wenwen_*.png`
+A Taiwanese young woman, about 24, with a shoulder-length black bob, a thin hair clip and round tortoiseshell glasses. She wears an Eslite-style bookstore uniform: a plain dark green apron (no logo, no text) over a cream long-sleeve shirt, beige trousers and white canvas shoes. She holds three books stacked against her chest. Calm, warm and a little bookish.
+- neutral: gentle smile, books held against her chest.
+- happy: bright smile, holding one book out towards the viewer as if recommending it.
+- surprised: eyebrows up, pushing her glasses up with one finger.
+
 ### Tea shop customers (your part-time job)
 For each one: neutral is a polite, waiting face; happy is pleased with their drink; surprised is a little "oh!".
 - **`char_cust1_*.png`**: a university student, about 21, with long hair in a claw clip and an oversized hoodie, holding a phone.
@@ -88,7 +94,7 @@ For each one: neutral is a polite, waiting face; happy is pleased with their dri
 
 ---
 
-## 3. Conversation backgrounds — 15 images
+## 3. Conversation backgrounds — 16 images
 
 While you talk to someone in a shop, this painting replaces the blurred street photo.
 
@@ -97,6 +103,7 @@ While you talk to someone in a shop, this painting replaces the blurred street p
 
 - **`bg_hostel.jpg`**: the front desk of a small, cosy backpacker hostel in Taipei. Mustard-yellow doors and accents, a wooden reception counter with a small bell, key cards in a holder, a corkboard of travel tips and hand-drawn maps, potted plants, a staircase going up on one side, warm lamp light.
 - **`bg_bfshop.jpg`** *(new)*: the inside of a busy Taiwanese breakfast shop in the early morning. A big flat griddle with egg crepes and turnip cakes sizzling, stacks of paper bags, a fridge of soy milk and milk tea bottles, a wall menu of blank coloured strips, small plastic stools at folding tables, steam and morning sunlight.
+- **`bg_eslite.jpg`** *(new)*: the inside of a huge, calm Taipei bookstore. Long dark-wood bookshelves under warm downlights, wide wooden steps and low platforms where people could sit on the floor to read (no people), display tables of books with plain covers (no readable text), a soft polished floor, a glimpse of an escalator in the distance.
 - **`bg_bakery.jpg`**: the inside of a bright Taiwanese bakery café in the morning. Glass cases full of egg tarts, pineapple buns and cakes, a coffee counter with a menu board of blank coloured panels, trays and tongs, large sunny windows.
 - **`bg_temple.jpg`**: the inside of a traditional Taiwanese sea-goddess temple hall. Red pillars, carved gold wooden panels, hanging red lanterns, an altar with a calm goddess statue in the background, incense smoke, a pair of red crescent-moon blocks on a small table, candlelight.
 - **`bg_tiger.jpg`**: a modern bubble tea shop counter. Dark wood and black tiles, a big pot of brown sugar syrup and pearls simmering, rows of clear cups, a sugar and ice level chart of blank coloured squares, warm spotlights.
@@ -134,6 +141,29 @@ During a date the game uses these if they exist, and otherwise uses the characte
 
 ---
 
+## 6. Optional: book covers for the bookstore — 13 images
+
+The bookstore draws simple coloured covers. If you'd like illustrated ones, make these portrait pictures (1024 × 1536) and save them as `art/book_<id>.jpg`. Keep the top two-thirds as the picture and leave the bottom third plain and darker, because the game writes the Chinese title there. Do not put any text on the picture.
+
+**Style line:**
+> Picture-book cover illustration, soft gouache texture, warm limited palette, simple bold shapes, gentle light, the subject in the upper two-thirds, the lower third a plain darker area, no text, no letters, no logos. Portrait 1024 x 1536.
+
+- `book_bubble.jpg`: a tall cup of bubble tea with dark pearls and a thick straw, on a wooden counter.
+- `book_cat.jpg`: a small orange cat peeking out of a tote bag on a busy metro carriage seat, comic-book style with a thick outline.
+- `book_bfshop.jpg`: a tiny corner breakfast shop at dawn with steam rising from the griddle and a kind grandmother behind the counter.
+- `book_ximen.jpg`: a lively pedestrian street with tall vertical signs (shapes only, no characters) and an old red-brick octagonal building.
+- `book_luroufan.jpg`: a bowl of braised pork rice with a soy egg, viewed from above.
+- `book_tiger.jpg`: a little girl and her younger brother hiding in a big tree at night, with a striped tail sticking out from behind a house below. Spooky but child-friendly.
+- `book_sgdiary.jpg`: an open notebook diary with a pen, a metro card and a breakfast bag on a desk by a window.
+- `book_sunmoon.jpg`: a white deer standing at the edge of a misty blue mountain lake at sunrise.
+- `book_lantern.jpg`: a red sky lantern rising above railway tracks in a small mountain town at dusk.
+- `book_bobaorigin.jpg`: an old-fashioned teahouse table with a glass of milk tea and white tapioca pearls in a bowl, sepia tones.
+- `book_tang.jpg`: a full moon over a quiet bed by a window, with a faint frost-like glow on the floor. Ink-wash style.
+- `book_night.jpg`: a quiet city street at night with a lit convenience store, a small noodle stall and one window glowing.
+- `book_nightmkt.jpg`: night market snacks arranged like a map: fried chicken, stinky tofu, an oyster omelette and papaya milk.
+
+---
+
 ## Checklist
 
 **Opening film (7)**
@@ -145,8 +175,9 @@ During a date the game uses these if they exist, and otherwise uses the characte
 - [ ] cine_door
 - [ ] cine_title
 
-**Characters (30 pictures)**
+**Characters (33 pictures)**
 - [ ] xiaoting
+- [ ] wenwen
 - [ ] ayi
 - [ ] awei
 - [ ] kaiwen
@@ -157,8 +188,9 @@ During a date the game uses these if they exist, and otherwise uses the characte
 - [ ] cust3
 - [ ] cust4
 
-**Backgrounds (15)**
+**Backgrounds (16)**
 - [ ] hostel
+- [ ] eslite
 - [ ] bfshop
 - [ ] bakery
 - [ ] temple
@@ -183,3 +215,6 @@ During a date the game uses these if they exist, and otherwise uses the characte
 - [ ] xiaoyu
 - [ ] meimei
 - [ ] xiaoting
+
+**Book covers (optional, 13)**
+- [ ] bubble, cat, bfshop, ximen, luroufan, tiger, sgdiary, sunmoon, lantern, bobaorigin, tang, night, nightmkt
