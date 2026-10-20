@@ -25,5 +25,5 @@ ayi          Chen         早餐店阿姨: friendly Taiwanese breakfast auntie
 wenwen       Chihiro      文文: bookstore staff at Eslite
 reader       YCHuang      Book narrator: warm storyteller
 
-4781 recorded lines. Files are named by speaker and a hash of the line, so the game finds them automatically.
+5052 recorded lines. Files are named by speaker and a hash of the line, so the game finds them automatically.
 Any line without a recording uses your device's voice.
