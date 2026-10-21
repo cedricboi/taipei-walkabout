@@ -1,0 +1,1 @@
+dict/hsk.json is derived from Complete HSK Vocabulary by Yanis Zafiropulos (https://github.com/drkameleon/complete-hsk-vocabulary), MIT License.
